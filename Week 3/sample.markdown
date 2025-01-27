@@ -35,3 +35,19 @@ and ordered is
 ![Clickable Text](image name . jpg)
 
 ![My Profile](IMG_3879.JPG)
+
+## Code
+
+```javascript
+var test = "string";
+```
+
+## Tables
+
+Column 1 | Column 2
+-- | --
+Row 1 | Row 1
+Row 2 | Row 2
+
+[!Warning]  
+Must add 2 spaces after square bracket.
