@@ -26,6 +26,12 @@ and ordered is
 
 ## links
 
-Bracket 1 [The clickable text] (the link)
+[The clickable text] (the link)
 
 [RutulManani](https://rutulmanani18.wixstudio.com/designs)
+
+## Images
+
+![Clickable Text](image name . jpg)
+
+![My Profile](IMG_3879.JPG)
